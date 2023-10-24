@@ -1,4 +1,5 @@
 - 👋 Hi, My is Thiago Schulz
+- 🌎 I'm From Brazil
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Python/PHP and CyberSecurity
 - 💞️ I’m looking to collaborate on Software Development and Automations
